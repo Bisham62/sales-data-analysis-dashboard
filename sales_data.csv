@@ -1,0 +1,15 @@
+Date,Product,Category,Region,Units_Sold,Price,Discount
+2025-01-05,Laptop,Electronics,West,5,800,0.10
+2025-01-10,Phone,Electronics,East,8,600,0.05
+2025-01-15,Desk Chair,Furniture,South,10,120,0.00
+2025-02-01,Laptop,Electronics,North,3,800,0.15
+2025-02-07,Phone,Electronics,West,6,600,0.10
+2025-02-10,Desk,Furniture,East,4,250,0.00
+2025-03-05,Laptop,Electronics,South,7,800,0.20
+2025-03-11,Phone,Electronics,North,9,600,0.05
+2025-03-18,Desk Chair,Furniture,West,5,120,0.10
+2025-04-02,Desk,Furniture,South,6,250,0.00
+2025-04-09,Laptop,Electronics,East,4,800,0.15
+2025-04-12,Phone,Electronics,West,10,600,0.05
+2025-04-20,Laptop,Electronics,West,,800,0.10
+2025-04-25,Phone,Electronics,East,7,,0.05
