@@ -55,19 +55,18 @@ Created bar charts to clearly present:
 
 ## Key Findings
 
-* Revenue varies across months, with a clear peak period
-* Some regions consistently generate more revenue
-* A few products contribute most of the total sales
-* Certain periods show lower performance
-
+* April generated the highest revenue at $18,224.69, contributing 41.41% of total revenue.
+* The West region generated the highest revenue at $17,732.31, accounting for 40.29% of total revenue.
+* Phone was the top-selling product, generating the highest overall revenue among all products.
+* February showed the lowest performance, with revenue of $6,280.00.
 ---
 
 ## Recommendations
 
-* Focus marketing during high-performing months
-* Improve strategy for low-performing months
-* Promote top-selling products
-* Expand in high-performing regions
+* Increase marketing efforts during April, as it contributes over 40% of total revenue.
+* Investigate February’s low performance and adjust strategy to improve sales.
+* Focus on promoting the Phone, as it is the highest revenue-generating product.
+* Expand operations in the West region, which contributes over 40% of total revenue.
 
 ---
 
