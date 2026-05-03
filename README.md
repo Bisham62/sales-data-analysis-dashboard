@@ -94,6 +94,19 @@ Created bar charts to clearly present:
 
 ---
 
+## How to Run
+
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Run the analysis script:
+   python3 sales_dashboard.py
+
+3. (Optional) Open the notebook:
+   analysis.ipynb
+
+---
+
 ## What I Improved
 
 * Added multi-level analysis (month, region, product)
